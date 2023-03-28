@@ -1,5 +1,5 @@
 # FPS-Horror-game
-FPS Horror game made in Unity
+FPS Horror game made in Unity. Cannot upload it because the size is too big. But here's the link for google drive with all of the assets - https://drive.google.com/drive/folders/1MRI8EmCsh0y2tguk6Y4YNl9eZ_VruflF?usp=share_link
 
 
 ## Features
